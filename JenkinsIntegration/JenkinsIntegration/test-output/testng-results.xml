@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4914" started-at="2020-01-27T19:21:47Z" finished-at="2020-01-27T19:21:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4914" started-at="2020-01-27T19:21:47Z" finished-at="2020-01-27T19:21:52Z">
+      <class name="JenkinsIntegration.JenkinsIntegration.AppTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:JenkinsIntegration.JenkinsIntegration.AppTest@5dfcfece]" name="launchBrowser" is-config="true" duration-ms="3621" started-at="2020-01-27T14:21:47Z" finished-at="2020-01-27T14:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:JenkinsIntegration.JenkinsIntegration.AppTest@5dfcfece]" name="verifyHomepageTitle" is-config="true" duration-ms="9" started-at="2020-01-27T14:21:51Z" finished-at="2020-01-27T14:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="register()[pri:0, instance:JenkinsIntegration.JenkinsIntegration.AppTest@5dfcfece]" name="register" duration-ms="357" started-at="2020-01-27T14:21:51Z" finished-at="2020-01-27T14:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="goBackToHomepage()[pri:0, instance:JenkinsIntegration.JenkinsIntegration.AppTest@5dfcfece]" name="goBackToHomepage" is-config="true" duration-ms="309" started-at="2020-01-27T14:21:51Z" finished-at="2020-01-27T14:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomepage -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:JenkinsIntegration.JenkinsIntegration.AppTest@5dfcfece]" name="verifyHomepageTitle" is-config="true" duration-ms="4" started-at="2020-01-27T14:21:51Z" finished-at="2020-01-27T14:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="support()[pri:1, instance:JenkinsIntegration.JenkinsIntegration.AppTest@5dfcfece]" name="support" duration-ms="260" started-at="2020-01-27T14:21:51Z" finished-at="2020-01-27T14:21:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- support -->
+        <test-method status="PASS" signature="goBackToHomepage()[pri:0, instance:JenkinsIntegration.JenkinsIntegration.AppTest@5dfcfece]" name="goBackToHomepage" is-config="true" duration-ms="261" started-at="2020-01-27T14:21:52Z" finished-at="2020-01-27T14:21:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomepage -->
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:JenkinsIntegration.JenkinsIntegration.AppTest@5dfcfece]" name="terminateBrowser" is-config="true" duration-ms="79" started-at="2020-01-27T14:21:52Z" finished-at="2020-01-27T14:21:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- JenkinsIntegration.JenkinsIntegration.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
